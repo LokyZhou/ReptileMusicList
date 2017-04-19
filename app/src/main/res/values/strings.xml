@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ReptileMusicList</string>
+    <string name="default_url">https://y.qq.com/n/yqq/playlist/3559762465.html#</string>
+    <string name="get_folder_info">获取歌单信息</string>
+</resources>
